@@ -4,7 +4,7 @@ An interactive vertical timeline of the 2026–2027 Mexican federal electoral pr
 
 The interface is in Spanish. This documentation is in English.
 
-- **Live site:** <https://cedipcalendario-electoral26.vercel.app>
+- **Live site:** <https://cedip-calendario26.visualargument.org/>
 - **Data cut-off:** 5 November 2026 (Mexico City time)
 - **Events:** 93, each with its legal basis and sources
 - **Research dossier:** [`INVESTIGACION.md`](INVESTIGACION.md)
