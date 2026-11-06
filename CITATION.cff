@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this software using the metadata below."
+type: software
+title: "Ruta a la LXVII Legislatura: calendario electoral y legislativo 2026-2027"
+authors:
+  - family-names: "Santos Domínguez"
+    given-names: "Adela"
+version: "1.0.0"
+date-released: "2026-11-06"
+repository-code: "https://github.com/adelasantosd/cedip_calendario-electoral26"
+url: "https://github.com/adelasantosd/cedip_calendario-electoral26"
+license: MIT
+abstract: "Interfaz pública de consulta del calendario electoral federal mexicano 2026-2027 y del calendario legislativo. Código MIT; compilación de datos y documentación CC BY 4.0; logotipo institucional excluido."
+keywords:
+  - "México"
+  - "calendario electoral"
+  - "estudios parlamentarios"

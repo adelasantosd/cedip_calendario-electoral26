@@ -1,0 +1,26 @@
+{
+  "title": "Ruta a la LXVII Legislatura: calendario electoral y legislativo 2026-2027",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Santos Domínguez, Adela"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-11-06",
+  "access_right": "open",
+  "license": "mit",
+  "description": "Interfaz pública de consulta y compilación del calendario electoral y legislativo mexicano 2026-2027. Corte: 2026-11-05; 93 eventos. Código: MIT. Datos y documentación originales: CC BY 4.0. Logotipo institucional excluido de las licencias abiertas. Se utilizaron Codex (OpenAI) y Claude (Anthropic) como herramientas de asistencia para el diseño de la interfaz pública. Las afirmaciones jurídicas del conjunto recibido no fueron revalidadas durante la preparación editorial.",
+  "keywords": [
+    "México",
+    "calendario electoral",
+    "estudios parlamentarios"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/adelasantosd/cedip_calendario-electoral26",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

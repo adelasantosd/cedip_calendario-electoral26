@@ -1,0 +1,1522 @@
+{
+ "corte": "2026-11-05",
+ "notas": "estado: confirmado = acto ocurrido o acuerdo aprobado, reportado por prensa; plazo_legal = fecha fija en Constitución/ley; programado = previsto en acuerdo vigente; estimado = declaración política sin acto formal; pendiente = sin fecha. verificar_primaria = true cuando no se pudo leer la fuente oficial (ine.mx, dof.gob.mx, diputados.gob.mx bloqueados desde el entorno de investigación). Cotejo 5 nov 2026: calendario integral INE/CG479/2026 en ine.mx, comunicados de Central Electoral y textos vigentes de CPEUM (últ. ref. DOF 07-10-2026), LGIPE (02-06-2026), LGSMIME (14-11-2025), LOCGEUM (07-07-2025), RCD (07-05-2025), LFPRH (09-04-2026) y LFRCF (14-05-2026) en diputados.gob.mx/LeyesBiblio.",
+ "eventos": [
+  {
+   "id": "l01",
+   "carril": "legislativo",
+   "cat": "periodos",
+   "inicio": "2026-02-01",
+   "fin": "2026-04-30",
+   "titulo": "2º periodo ordinario (2º año, LXVI)",
+   "detalle": "",
+   "fundamento": "CPEUM art. 65",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Segundo periodo de sesiones del año"
+  },
+  {
+   "id": "r01",
+   "carril": "legislativo",
+   "cat": "reforma",
+   "inicio": "2026-03-11",
+   "fin": null,
+   "titulo": "Diputados rechaza la reforma constitucional electoral",
+   "detalle": "259 votos a favor de 334 necesarios; PT y PVEM no acompañaron.",
+   "fundamento": "CPEUM art. 135",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.excelsior.com.mx/politica/reforma-electoral-no-alcanza-mayoria-calificada-camara-diputados-desecha-iniciativa",
+    "https://www.informador.mx/mexico/quien-voto-a-favor-y-en-contra-de-la-reforma-electoral-asi-fue-el-uno-a-uno-de-los-diputados-20260311-0162.html"
+   ],
+   "claro": "La Cámara rechaza la reforma electoral a la Constitución"
+  },
+  {
+   "id": "r02",
+   "carril": "legislativo",
+   "cat": "reforma",
+   "inicio": "2026-03-25",
+   "fin": "2026-04-23",
+   "titulo": "'Plan B': reforma constitucional de austeridad (arts. 115, 116, 134)",
+   "detalle": "Después de que la reforma completa no pasó, el Congreso aprobó una versión más corta: topes al gasto de los congresos locales y del Senado y ajuste a sueldos de consejeros y magistrados electorales. Publicada en el DOF el 23 abr 2026. No cambia las fechas de la elección de 2027.",
+   "fundamento": "DOF abril 2026",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+    "https://www.elfinanciero.com.mx/nacional/2026/04/24/publican-plan-b-de-la-reforma-electoral-en-el-dof-cuando-entra-en-vigor/",
+    "https://www.proceso.com.mx/nacional/politica/2026/4/14/queda-consumado-el-plan-b-el-senado-declara-su-validez-370096.html"
+   ],
+   "claro": "Entra en vigor el \"Plan B\": recortes al gasto electoral y legislativo"
+  },
+  {
+   "id": "l02",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-04-01",
+   "fin": null,
+   "titulo": "Pre-Criterios de Política Económica 2027",
+   "detalle": "SHCP entrega objetivos y perspectivas al Congreso.",
+   "fundamento": "LFPRH art. 42 fr. I",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf"
+   ],
+   "claro": "Hacienda adelanta al Congreso cómo ve la economía para 2027"
+  },
+  {
+   "id": "i00",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": "2026-04-21",
+   "titulo": "Diputados designa 3 consejerías del INE",
+   "detalle": "Blanca Yassahara Cruz García, Frida Denisse Gómez Puga y Arturo Manuel Chávez López; periodo 22 abr 2026-21 abr 2035. Protesta en el Consejo General el 22 abr. Antecedente: el mismo procedimiento del art. 41 V-A que ahora se usará para la presidencia.",
+   "fundamento": "CPEUM art. 41 V-A",
+   "estado": "confirmado",
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/04/22/toman-protesta-tres-nuevas-consejerias-ante-el-pleno-del-consejo-general-del-ine/",
+    "https://gaceta.diputados.gob.mx/PDF/66/2026/mar/20260319-V.pdf"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "La Cámara nombra a 3 nuevos consejeros del INE"
+  },
+  {
+   "id": "l03",
+   "carril": "legislativo",
+   "cat": "fiscalizacion",
+   "inicio": "2026-04-30",
+   "fin": null,
+   "titulo": "Entrega de la Cuenta Pública 2025",
+   "detalle": "",
+   "fundamento": "CPEUM art. 74 fr. VI",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "El Gobierno entrega sus cuentas de 2025"
+  },
+  {
+   "id": "l04",
+   "carril": "legislativo",
+   "cat": "periodos",
+   "inicio": "2026-05-01",
+   "fin": "2026-08-31",
+   "titulo": "Receso: Comisión Permanente",
+   "detalle": "37 integrantes (19 diputaciones, 18 senadurías), con persona sustituta por titular (reforma DOF 15 oct 2025).",
+   "fundamento": "CPEUM arts. 67, 78",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+   ],
+   "claro": "Vacaciones del Congreso: trabaja la Comisión Permanente"
+  },
+  {
+   "id": "r03",
+   "carril": "legislativo",
+   "cat": "reforma",
+   "inicio": "2026-06-02",
+   "titulo": "LGIPE: \"Integridad en Candidaturas\" (DOF 2 jun 2026)",
+   "detalle": "Crea la Comisión de Verificación de Integridad en Candidaturas (arts. 200 Bis-Quáter). Partidos y aspirantes independientes pueden entregarle, de forma voluntaria, listas de posibles candidaturas antes del registro para análisis de riesgo con FGR, CNI, UIF y CNBV. Debía instalarse antes del inicio del PEF 2027.",
+   "fundamento": "LGIPE arts. 42.2, 200 Bis-200 Quáter",
+   "estado": "confirmado",
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "Nueva ley para revisar antecedentes de candidatos"
+  },
+  {
+   "id": "r04",
+   "carril": "legislativo",
+   "cat": "reforma",
+   "inicio": "2026-06-02",
+   "titulo": "Elección judicial se mueve de 2027 a 2028 (DOF 2 jun 2026)",
+   "detalle": "Los cargos judiciales no renovados en 2025 se eligen el primer domingo de junio de 2028. Magistraturas de Sala Superior del TEPJF que concluían en 2027 siguen hasta 2028. En 2027 solo hay elección de diputaciones federales y cargos locales.",
+   "fundamento": "CPEUM, decreto de reforma al Poder Judicial, transitorios 2º y 3º",
+   "estado": "confirmado",
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "La elección de jueces se pasa a 2028"
+  },
+  {
+   "id": "r05",
+   "carril": "legislativo",
+   "cat": "reforma",
+   "inicio": "2026-06-02",
+   "titulo": "Nueva causal de nulidad: intervención extranjera (DOF 2 jun 2026)",
+   "detalle": "Se adiciona un inciso a la base VI del art. 41. Aplica a la elección de 2027.",
+   "fundamento": "CPEUM art. 41 base VI",
+   "estado": "confirmado",
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "Una elección se puede anular si hay intervención extranjera"
+  },
+  {
+   "id": "l05",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-06-30",
+   "fin": null,
+   "titulo": "Estructura programática PEF 2027",
+   "detalle": "",
+   "fundamento": "LFPRH art. 42 fr. II",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf"
+   ],
+   "claro": "Hacienda define cómo se ordenará el Presupuesto 2027"
+  },
+  {
+   "id": "e01",
+   "carril": "electoral",
+   "cat": "proceso",
+   "inicio": "2026-07-30",
+   "fin": null,
+   "titulo": "INE aprueba Plan Integral y Calendario del PEF 2026-2027",
+   "detalle": "Acuerdo INE/CG479/2026 (30 jul 2026); más de 500 actividades. Elección de 500 diputaciones federales; en paralelo 19,609 cargos locales en 32 entidades (17 gubernaturas).",
+   "fundamento": "LGIPE art. 44",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/07/31/planeara-y-organizara-ine-mas-de-500-actividades-del-proceso-electoral-federal-2026%E2%80%912027/",
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://www.infobae.com/mexico/2026/07/31/ine-define-ruta-rumbo-a-2027-el-10-de-septiembre-inicia-el-proceso-para-renovar-500-diputaciones-federales/",
+    "https://www.elimparcial.com/mexico/2026/07/31/ine-aprueba-el-calendario-electoral-2026-2027-estas-son-las-fechas-clave-para-renovar-las-500-diputaciones-federales-en-mexico/"
+   ],
+   "claro": "El INE aprueba el calendario de la elección 2027"
+  },
+  {
+   "id": "e02",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2026-09-01",
+   "fin": "2027-01-25",
+   "titulo": "Campaña Anual Intensa de credencialización",
+   "detalle": "Confirmado por el INE: 25 ene 2027 es la fecha límite para inscripción, actualización de datos y obtención de credencial, incluido el trámite anticipado de quienes cumplen 18 años a más tardar el 6 jun 2027. Descarta la nota que decía 27 ene. Credenciales con vigencia 2026 pierden validez el 1 ene 2027.",
+   "fundamento": "LGIPE arts. 136-138",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/17/a-100-dias-de-la-conclusion-del-plazo-llama-ine-a-jovenes-de-primer-voto-en-2027-a-tramitar-su-credencial-para-votar/",
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/",
+    "https://www.infobae.com/mexico/2026/09/29/ine-anuncia-campana-intensa-para-tramitar-credencial-para-votar-rumbo-a-elecciones-del-2027/",
+    "https://www.elfinanciero.com.mx/nacional/2026/09/01/elecciones-2027-quienes-deben-tramitar-o-renovar-su-credencial-para-votar-antes-del-6-de-junio/"
+   ],
+   "claro": "Plazo para sacar o actualizar la credencial para votar"
+  },
+  {
+   "id": "e04",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2026-09-01",
+   "fin": "2027-02-25",
+   "titulo": "Registro a la Lista Nominal en el Extranjero (LNERE)",
+   "detalle": "App \"Mi INE, mi voto donde esté\". Confirmado en LGIPE art. 329.1: desde el exterior se vota Presidencia, senadurías y gubernaturas/Jefatura de Gobierno (si la constitución local lo prevé). NO diputaciones federales. En 2027 aplica solo a cargos locales (p. ej. diputación migrante CDMX).",
+   "fundamento": "LGIPE Libro Sexto",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+    "https://heraldodemexico.com.mx/nacional/2026/10/28/ine-revela-quienes-podran-votar-desde-el-extranjero-en-las-elecciones-de-2027-917845.html",
+    "https://tribuna.com.mx/mexico/2026/10/14/ine-habilita-aplicacion-para-que-mexicanos-en-el-extranjero-se-registren-para-votar-en-2027_702212/"
+   ],
+   "claro": "Mexicanos en el extranjero se registran para votar"
+  },
+  {
+   "id": "e05",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2026-09-01",
+   "fin": "2027-03-15",
+   "titulo": "Estrategia de difusión de credencialización",
+   "detalle": "Campaña informativa del INE.",
+   "fundamento": "",
+   "estado": "programado",
+   "verificar_primaria": true,
+   "fuentes": [
+    "https://contralinea.com.mx/interno/semana/ine-inicia-campana-para-renovar-5-4-millones-de-credenciales-para-votar-rumbo-a-2027/"
+   ],
+   "claro": "El INE difunde la campaña de credencialización"
+  },
+  {
+   "id": "l06",
+   "carril": "legislativo",
+   "cat": "periodos",
+   "inicio": "2026-09-01",
+   "fin": "2026-12-15",
+   "titulo": "1er periodo ordinario (3er año, LXVI) + 2º Informe de Gobierno",
+   "detalle": "Último año de la LXVI. El análisis del Informe se clasifica en política interior, económica, social y exterior (LOCGEUM art. 7.4).",
+   "fundamento": "CPEUM arts. 65, 66, 69; LOCGEUM art. 7",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Primer periodo de sesiones e Informe de la Presidenta"
+  },
+  {
+   "id": "l07",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-09-08",
+   "fin": null,
+   "titulo": "Entrega del Paquete Económico 2027",
+   "detalle": "Criterios Generales, Iniciativa de LIF y Proyecto de PEF.",
+   "fundamento": "CPEUM art. 74 fr. IV",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://comunicacionsocial.diputados.gob.mx/index.php/mesa/-recibe-camara-de-diputados-de-la-shcp-el-paquete-economico-2027"
+   ],
+   "claro": "Hacienda entrega el Presupuesto 2027 a la Cámara"
+  },
+  {
+   "id": "e06",
+   "carril": "electoral",
+   "cat": "proceso",
+   "inicio": "2026-09-10",
+   "fin": null,
+   "titulo": "Inicio del Proceso Electoral Federal 2026-2027",
+   "detalle": "Fecha fijada en el comunicado oficial del INE. La tabla oficial dice \"primera semana de septiembre\" y la LGIPE art. 225.3 también; el 10 sep cae en la segunda semana: discrepancia formal sin efecto práctico conocido. Ese día inicia la observación electoral y el registro de visitantes extranjeros.",
+   "fundamento": "LGIPE art. 225 (primera semana de septiembre)",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/07/31/planeara-y-organizara-ine-mas-de-500-actividades-del-proceso-electoral-federal-2026%E2%80%912027/",
+    "https://politica.expansion.mx/mexico/2026/08/09/elecciones-2027-calendario-fechas-cargos"
+   ],
+   "claro": "Arranca oficialmente la elección federal 2027"
+  },
+  {
+   "id": "e12b",
+   "carril": "electoral",
+   "cat": "observacion",
+   "inicio": "2026-09-10",
+   "fin": "2027-05-10",
+   "titulo": "Solicitud de acreditación como observador/a electoral",
+   "detalle": "En línea (pe2027-observadores.ine.mx) o en juntas local y distritales. Visitantes extranjeros: hasta 26 may 2027.",
+   "fundamento": "LGIPE art. 217",
+   "estado": "programado",
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/",
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "verificar_primaria": false,
+   "claro": "Registro para ser observador electoral"
+  },
+  {
+   "id": "l08",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-09-23",
+   "fin": null,
+   "titulo": "Diputados aprueba calendario y formato de comparecencias (glosa)",
+   "detalle": "Pleno, comisiones y Jucopo; la Jucopo puede citar más. RCD art. 124: comparecen bajo protesta de decir verdad secretarios de Estado, FGR, titulares de descentralizados y de paraestatales; el Pleno puede citar a autónomos.",
+   "fundamento": "CPEUM arts. 69, 93; LOCGEUM art. 7; RCD arts. 124-128",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+    "https://www.jornada.com.mx/noticia/2026/09/23/politica/diputados-aprueban-calendario-de-comparecencias-del-gabinete-por-segundo-informe",
+    "https://www.tallapolitica.com.mx/camara-de-diputados-aprueba-calendario-y-normas-de-comparecencias-y-reuniones-para-analisis-del-segundo-informe-de-gobierno/"
+   ],
+   "claro": "La Cámara acuerda qué funcionarios vienen a rendir cuentas"
+  },
+  {
+   "id": "e07",
+   "carril": "electoral",
+   "cat": "organos",
+   "inicio": "2026-09-30",
+   "fin": null,
+   "titulo": "Instalación de 32 consejos locales",
+   "detalle": "",
+   "fundamento": "LGIPE art. 65",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://www.elimparcial.com/mexico/2026/07/31/ine-aprueba-el-calendario-electoral-2026-2027-estas-son-las-fechas-clave-para-renovar-las-500-diputaciones-federales-en-mexico/"
+   ],
+   "claro": "El INE instala sus 32 consejos estatales"
+  },
+  {
+   "id": "l09",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-09-30",
+   "fin": null,
+   "titulo": "Comparecencia: Hacienda (Pleno, Diputados)",
+   "detalle": "Programada en la Gaceta del 29 sep 2026 (acuerdo de la Jucopo). Falta confirmar si se realizó en Diputados; en el Senado compareció el 6 oct.",
+   "fundamento": "CPEUM art. 93",
+   "estado": "programado",
+   "verificar_primaria": true,
+   "fuentes": [
+    "https://gaceta.diputados.gob.mx/Gaceta/66/2026/sep/20260929.html",
+    "https://www.tallapolitica.com.mx/camara-de-diputados-aprueba-calendario-y-normas-de-comparecencias-y-reuniones-para-analisis-del-segundo-informe-de-gobierno/"
+   ],
+   "claro": "El secretario de Hacienda rinde cuentas ante el Pleno"
+  },
+  {
+   "id": "e09",
+   "carril": "electoral",
+   "cat": "candidaturas",
+   "inicio": "2026-10-01",
+   "fin": "2026-10-31",
+   "titulo": "Criterios de registro de candidaturas, lineamientos de elección consecutiva y topes de gasto",
+   "detalle": "Previsto para octubre 2026 en el calendario INE.",
+   "fundamento": "LGIPE art. 232-238",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "claro": "El INE fija reglas para registrar candidatos y topes de gasto"
+  },
+  {
+   "id": "e08",
+   "carril": "electoral",
+   "cat": "independientes",
+   "inicio": "2026-10-05",
+   "fin": "2026-12-13",
+   "titulo": "Manifestación de intención: candidaturas independientes",
+   "detalle": "Ante la Junta Distrital Ejecutiva, con acta constitutiva de A.C. Rige la convocatoria (13 dic); la tabla del calendario integral dice 30 nov.",
+   "fundamento": "LGIPE arts. 366-368",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/05/inicia-ine-recepcion-de-manifestaciones-de-intencion-para-candidaturas-independientes-a-diputaciones-federales/",
+    "https://www.ine.mx/wp-content/uploads/2026/10/Anexo-1.-Convocatoria.pdf",
+    "https://www.publimetro.com.mx/noticias/2026/10/05/ine-abre-registro-para-candidaturas-independientes-a-diputaciones-federales-en-2027/",
+    "https://capital-cdmx.org/candidaturas-independientes-2027-fechas-firmas-diputaciones-federales-ine/"
+   ],
+   "claro": "Quien quiera ser candidato independiente avisa al INE"
+  },
+  {
+   "id": "l09s",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-10-06",
+   "fin": null,
+   "claro": "El secretario de Hacienda rinde cuentas ante el Senado",
+   "titulo": "Comparecencia: Hacienda (Édgar Amador), Pleno del Senado",
+   "detalle": "Glosa del Segundo Informe de Gobierno, 11:00 h. Transmitida en vivo por la SHCP.",
+   "fundamento": "CPEUM arts. 69, 93",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "fuente_texto": "Aviso de transmisión publicado por la SHCP el 6 oct 2026, aportado por el CEDIP."
+  },
+  {
+   "id": "l10",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-10-08",
+   "fin": null,
+   "titulo": "Reunión: Seguridad (García Harfuch) con Jucopo, Diputados",
+   "detalle": "Se realizó el 8 oct ante la Jucopo, en formato privado.",
+   "fundamento": "CPEUM art. 93",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.capitalmexico.com.mx/politica/aprueban-diputados-calendario-de-comparecencias-de-funcionarios-con-motivo-de-la-glosa-garcia-harfuch-acudira-este-jueves/"
+   ],
+   "claro": "El secretario de Seguridad se reúne con los coordinadores",
+   "fuente_texto": "Dato aportado por el equipo del CEDIP el 5 nov 2026."
+  },
+  {
+   "id": "l11",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-10-14",
+   "fin": null,
+   "titulo": "Diputados aprueba LIF 2027",
+   "detalle": "$10.636 billones; endeudamiento interno 1.7 billones. General 331-118; ~26 h de sesión.",
+   "fundamento": "LFPRH art. 42 fr. IV (límite 20 oct)",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.jornada.com.mx/noticia/2026/10/14/politica/camara-de-diputados-aprueba-en-lo-general-la-ley-de-ingresos-2027-estima-106-billones-para-financiar-gasto-publico"
+   ],
+   "claro": "Diputados aprueban la Ley de Ingresos 2027"
+  },
+  {
+   "id": "l12",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-10-20",
+   "fin": null,
+   "titulo": "Plazo legal: LIF en Cámara de Diputados",
+   "detalle": "",
+   "fundamento": "LFPRH art. 42 fr. IV",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf"
+   ],
+   "claro": "Último día para que Diputados apruebe la Ley de Ingresos"
+  },
+  {
+   "id": "i01",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": "2026-10-25",
+   "fin": "2026-10-26",
+   "titulo": "Renuncia de Guadalupe Taddei a la presidencia del INE",
+   "detalle": "Anuncio 25 oct, presentación formal ante la Cámara 26 oct. Su periodo concluía en abril 2032. Contexto: señalamientos de conflicto de interés en contrataciones; ~19-27 renuncias de mandos.",
+   "fundamento": "CPEUM art. 41 V-A",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.elfinanciero.com.mx/nacional/2026/10/27/nombran-a-blanca-cruz-como-consejera-presidenta-provisional-del-ine-tras-renuncia-de-guadalupe-taddei/",
+    "https://politica.expansion.mx/mexico/2026/11/02/renuncias-ine-caso-guadalupe-taddei"
+   ],
+   "claro": "Renuncia la presidenta del INE, Guadalupe Taddei"
+  },
+  {
+   "id": "i02",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": "2026-10-27",
+   "fin": null,
+   "titulo": "Blanca Yassahara Cruz García, presidenta provisional",
+   "detalle": "Designada por unanimidad en sesión extraordinaria urgente; rindió protesta el mismo día. Dura hasta que la Cámara designe a quien concluya el periodo.",
+   "fundamento": "LGIPE (suplencia de la presidencia)",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/27/asegura-ine-continuidad-institucional-con-la-designacion-de-blanca-cruz-garcia-como-consejera-presidenta-provisional/",
+    "https://centralelectoral.ine.mx/2026/10/27/rinde-protesta-blanca-yassahara-cruz-garcia-como-presidenta-provisional-del-ine/",
+    "https://www.elfinanciero.com.mx/nacional/2026/10/27/nombran-a-blanca-cruz-como-consejera-presidenta-provisional-del-ine-tras-renuncia-de-guadalupe-taddei/",
+    "https://www.informaoriente.com.mx/politica/camara-de-diputados-recibe-nombramiento-de-nueva-presidenta-provisional-del-ine-es-turnado-a-la-jucopo.htm"
+   ],
+   "claro": "El INE nombra presidenta provisional a Blanca Cruz García"
+  },
+  {
+   "id": "l13",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-10-27",
+   "fin": null,
+   "titulo": "Senado aprueba LIF 2027 y Ley Federal de Derechos",
+   "detalle": "Votación reportada 74-33 (Expansión) o 79 a favor (Por Esto).",
+   "fundamento": "LFPRH art. 42 fr. IV (límite 31 oct)",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://expansion.mx/economia/2026/10/27/senado-aprueba-ley-ingresos-derechos",
+    "https://www.milenio.com/politica/senado-aprueba-la-ley-de-ingresos-2027"
+   ],
+   "claro": "El Senado aprueba la Ley de Ingresos 2027"
+  },
+  {
+   "id": "l14",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-10-28",
+   "fin": null,
+   "titulo": "Comparecencia: Mujeres (Pleno, Diputados)",
+   "detalle": "",
+   "fundamento": "CPEUM art. 93",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.sil.gobernacion.gob.mx/ModulosSIL/index.php?CveSesion=5179028",
+    "https://hojaderutadigital.mx/camara-de-diputados-aprobo-fechas-y-horarios-de-comparecencias-de-las-secretarias-de-las-mujeres-y-de-bienestar/"
+   ],
+   "claro": "La secretaria de las Mujeres rinde cuentas ante el Pleno",
+   "fuente_texto": "Registro de la sesión en el Sistema de Información Legislativa (SIL), aportado por el CEDIP."
+  },
+  {
+   "id": "l15",
+   "carril": "legislativo",
+   "cat": "fiscalizacion",
+   "inicio": "2026-10-31",
+   "fin": null,
+   "titulo": "Límite: la Cámara concluye la revisión de la Cuenta Pública 2024",
+   "detalle": "\"A más tardar el 31 de octubre del año siguiente al de su presentación\": la CP 2024 se presentó en abril 2025. (Corrige la versión anterior, que decía CP 2025.)",
+   "fundamento": "CPEUM art. 74 fr. VI",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+   ],
+   "claro": "Último día para revisar las cuentas públicas de 2024"
+  },
+  {
+   "id": "e10b",
+   "carril": "electoral",
+   "cat": "organos",
+   "inicio": "2026-11-01",
+   "fin": "2026-11-20",
+   "titulo": "Designación de consejerías de los 300 consejos distritales",
+   "detalle": "Registro en línea 16-31 oct; designación en sesiones de consejos locales (p. ej. Guanajuato: 20 nov).",
+   "fundamento": "LGIPE art. 68.1.c",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/"
+   ],
+   "verificar_primaria": false,
+   "claro": "El INE nombra a los consejeros de sus 300 distritos"
+  },
+  {
+   "id": "e10c",
+   "carril": "electoral",
+   "cat": "computos",
+   "inicio": "2026-11-01",
+   "fin": "2026-11-30",
+   "titulo": "Acuerdo del mecanismo de aplicación de la fórmula de RP",
+   "fundamento": "LGIPE arts. 15-17",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "El INE define cómo repartirá los diputados plurinominales"
+  },
+  {
+   "id": "i03",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": "2026-11-03",
+   "fin": null,
+   "titulo": "Jucopo aplaza la convocatoria (sin acuerdo)",
+   "detalle": "PAN presentó 8 condiciones, rechazadas por Morena. Se pospone una semana.",
+   "fundamento": "",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://diario.mx/nacional/2026/nov/03/sin-acuerdo-convocatoria-para-presidencia-del-ine-1146774.html",
+    "https://zetatijuana.com/2026/11/jucopo-aplaza-convocatoria-para-la-presidencia-del-ine-van-27-renuncias/"
+   ],
+   "claro": "Sin acuerdo para lanzar la convocatoria de la presidencia del INE"
+  },
+  {
+   "id": "l30",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-11-04",
+   "fin": null,
+   "claro": "Se pospone la comparecencia de Ciencia por un bloqueo de jubilados",
+   "titulo": "Comparecencia: Ciencia, Humanidades, Tecnología e Innovación (pospuesta)",
+   "detalle": "No se realizó por el bloqueo de jubilados en la Cámara. Nueva fecha pendiente.",
+   "fundamento": "CPEUM art. 93",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "fuente_texto": "Dato aportado por el equipo del CEDIP el 5 nov 2026."
+  },
+  {
+   "id": "l16",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-11-05",
+   "fin": "2026-11-07",
+   "titulo": "Comisión de Presupuesto discute dictamen del PEF 2027",
+   "detalle": "Propuesta de recorte de $5 mil millones al INE.",
+   "fundamento": "LOCGEUM art. 39; RCD",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://heraldodemexico.com.mx/nacional/2026/11/5/inicia-discusion-del-pef-2027-en-la-camara-de-diputados-2910983.html",
+    "https://www.elfinanciero.com.mx/nacional/2026/11/02/presupuesto-2027-diputados-quitan-5-mil-mdp-al-ine-y-los-reparten-entre-estos-sectores/"
+   ],
+   "claro": "La Comisión de Presupuesto revisa el Presupuesto 2027"
+  },
+  {
+   "id": "l31",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-11-05",
+   "fin": null,
+   "claro": "La CFE rinde cuentas ante Diputados",
+   "titulo": "Comparecencia: Comisión Federal de Electricidad",
+   "detalle": "Glosa del Segundo Informe de Gobierno.",
+   "fundamento": "CPEUM art. 93",
+   "estado": "confirmado",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "fuente_texto": "Dato aportado por el equipo del CEDIP el 5 nov 2026."
+  },
+  {
+   "id": "l17",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-11-06",
+   "fin": null,
+   "titulo": "Comparecencias: Salud / IMSS / IMSS-Bienestar / ISSSTE (propuesta)",
+   "detalle": "Fecha en propuesta de septiembre; no confirmada.",
+   "fundamento": "CPEUM art. 93",
+   "estado": "estimado",
+   "verificar_primaria": true,
+   "fuentes": [
+    "https://www.proceso.com.mx/nacional/politica/2026/9/24/diputados-acuerdan-calendario-de-comparecencias-de-funcionarios-por-segundo-informe-de-sheinbaum-380510.html"
+   ],
+   "claro": "Salud, IMSS e ISSSTE rinden cuentas (por fijar)"
+  },
+  {
+   "id": "i05",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": "2026-11-09",
+   "fin": "2026-11-13",
+   "titulo": "Registro de aspirantes (fechas anticipadas por el diputado Ricardo Monreal, coordinador del GP MORENA, ya desfasadas)",
+   "detalle": "Fechas adelantadas por el diputado Ricardo Monreal, coordinador del GP MORENA; dependen de que se publique la convocatoria y probablemente se recorrerán.",
+   "fundamento": "",
+   "estado": "estimado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.sdpnoticias.com/mexico/diputados-siguen-sin-acuerdo-para-emitir-convocatoria-por-presidencia-del-ine/"
+   ],
+   "claro": "Registro de aspirantes a presidir el INE (fecha tentativa)"
+  },
+  {
+   "id": "l18",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-11-09",
+   "fin": "2026-11-13",
+   "titulo": "Pleno discute y vota PEF 2027 (meta)",
+   "detalle": "Meta política: 13 nov.",
+   "fundamento": "",
+   "estado": "estimado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://heraldodemexico.com.mx/nacional/2026/11/5/inicia-discusion-del-pef-2027-en-la-camara-de-diputados-2910983.html"
+   ],
+   "claro": "El Pleno vota el Presupuesto 2027"
+  },
+  {
+   "id": "e10d",
+   "carril": "electoral",
+   "cat": "casillas",
+   "inicio": "2026-11-09",
+   "fin": "2026-12-07",
+   "titulo": "Registro de aspirantes a Supervisores y Capacitadores-Asistentes Electorales",
+   "detalle": "Examen 12-13 dic; entrevistas 15 dic-19 ene; designación 12 ene 2027 (calendario integral) / resultados 20 ene (Guanajuato).",
+   "fundamento": "Estrategia de Capacitación PEF 2026-2027",
+   "estado": "programado",
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/",
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "verificar_primaria": false,
+   "claro": "Registro para trabajar como capacitador del INE"
+  },
+  {
+   "id": "i04",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": "2026-11-10",
+   "fin": null,
+   "titulo": "Posible emisión de la convocatoria",
+   "detalle": "Solo si los grupos parlamentarios llegan a un acuerdo. Según el diputado Ricardo Monreal, coordinador del GP MORENA, la convocatoria sería solo para mujeres.",
+   "fundamento": "CPEUM art. 41 V-A",
+   "estado": "estimado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://grupoanimal.mx/politica/aplazan-convocatoria-presidencia-ine-monreal"
+   ],
+   "claro": "Posible publicación de la convocatoria para presidir el INE"
+  },
+  {
+   "id": "l19",
+   "carril": "legislativo",
+   "cat": "presupuesto",
+   "inicio": "2026-11-15",
+   "fin": null,
+   "titulo": "Plazo constitucional: aprobación del PEF 2027",
+   "detalle": "Facultad exclusiva de la Cámara de Diputados.",
+   "fundamento": "CPEUM art. 74 fr. IV",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Último día para aprobar el Presupuesto 2027"
+  },
+  {
+   "id": "l20",
+   "carril": "legislativo",
+   "cat": "comparecencias",
+   "inicio": "2026-11-23",
+   "fin": null,
+   "titulo": "Reunión: FGR (Ernestina Godoy) con Jucopo, Diputados",
+   "detalle": "11:00 h.",
+   "fundamento": "",
+   "estado": "programado",
+   "verificar_primaria": true,
+   "fuentes": [
+    "https://hojaderutadigital.mx/camara-de-diputados-aprobo-fechas-y-horarios-de-comparecencias-de-las-secretarias-de-las-mujeres-y-de-bienestar/"
+   ],
+   "claro": "La fiscal general se reúne con los coordinadores"
+  },
+  {
+   "id": "e10",
+   "carril": "electoral",
+   "cat": "organos",
+   "inicio": "2026-11-30",
+   "fin": null,
+   "titulo": "Instalación de 300 consejos distritales",
+   "detalle": "",
+   "fundamento": "LGIPE art. 76",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://www.elimparcial.com/mexico/2026/07/31/ine-aprueba-el-calendario-electoral-2026-2027-estas-son-las-fechas-clave-para-renovar-las-500-diputaciones-federales-en-mexico/"
+   ],
+   "claro": "El INE instala sus 300 consejos distritales"
+  },
+  {
+   "id": "e14a",
+   "carril": "electoral",
+   "cat": "casillas",
+   "inicio": "2026-12-01",
+   "fin": "2026-12-31",
+   "titulo": "Sorteo del mes del calendario (base de la insaculación)",
+   "fundamento": "LGIPE art. 254",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "Sorteo del mes para elegir a quienes atenderán las casillas"
+  },
+  {
+   "id": "i07",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": "2026-12-06",
+   "fin": "2026-12-14",
+   "titulo": "Votación en Pleno: 2/3 de diputados presentes",
+   "detalle": "La Cámara vota en Pleno y necesita dos de cada tres diputados presentes. Fecha tentativa: 6-7 dic, según el diputado Ricardo Monreal, coordinador del GP MORENA; otras fuentes dicen 13-14 dic. Si no se logra esa votación, se hace un sorteo entre las finalistas en el Pleno; si tampoco, el sorteo lo hace la Suprema Corte. Quien gane termina el periodo de Taddei, hasta abril de 2032. No hay ratificación posterior: basta con la votación y la toma de protesta.",
+   "fundamento": "CPEUM art. 41 V-A, incisos c-e",
+   "estado": "estimado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+    "https://www.infobae.com/mexico/2026/10/29/nueva-presidencia-del-ine-se-podria-definir-hasta-diciembre-advierte-ricardo-monreal/",
+    "https://zetatijuana.com/2026/11/jucopo-aplaza-convocatoria-para-la-presidencia-del-ine-van-27-renuncias/"
+   ],
+   "claro": "La Cámara elige a la nueva presidenta del INE"
+  },
+  {
+   "id": "e11",
+   "carril": "electoral",
+   "cat": "independientes",
+   "inicio": "2026-12-14",
+   "fin": "2027-02-12",
+   "titulo": "Constancia de aspirante y recolección de apoyo ciudadano",
+   "detalle": "Constancia 14 dic (hasta 17 dic si hay subsanación). Apoyo 2% de la lista nominal distrital vía app. Tope de gasto $220,326.",
+   "fundamento": "LGIPE arts. 369-371",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/07/31/planeara-y-organizara-ine-mas-de-500-actividades-del-proceso-electoral-federal-2026%E2%80%912027/",
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/",
+    "https://capital-cdmx.org/candidaturas-independientes-2027-fechas-firmas-diputaciones-federales-ine/"
+   ],
+   "claro": "Independientes juntan firmas de apoyo"
+  },
+  {
+   "id": "l21",
+   "carril": "legislativo",
+   "cat": "periodos",
+   "inicio": "2026-12-15",
+   "fin": null,
+   "titulo": "Cierre del 1er periodo ordinario",
+   "detalle": "",
+   "fundamento": "CPEUM art. 65",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Termina el primer periodo de sesiones"
+  },
+  {
+   "id": "l22",
+   "carril": "legislativo",
+   "cat": "periodos",
+   "inicio": "2026-12-16",
+   "fin": "2027-01-31",
+   "titulo": "Receso: Comisión Permanente",
+   "detalle": "",
+   "fundamento": "CPEUM art. 78",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Vacaciones del Congreso: trabaja la Comisión Permanente"
+  },
+  {
+   "id": "e12",
+   "carril": "electoral",
+   "cat": "observacion",
+   "inicio": "2027-01-01",
+   "fin": "2027-02-15",
+   "titulo": "Convocatoria del Fondo de Apoyo para la Observación Electoral",
+   "detalle": "Visitantes extranjeros: convocatoria hasta 26 may 2027.",
+   "fundamento": "LGIPE art. 217",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://mayacomunicacion.com.mx/elecciones-2027-calendario-ine/"
+   ],
+   "claro": "Apoyo económico para grupos de observadores"
+  },
+  {
+   "id": "e13",
+   "carril": "electoral",
+   "cat": "campanas",
+   "inicio": "2027-01-04",
+   "fin": "2027-02-12",
+   "titulo": "Precampañas",
+   "detalle": "Algunas notas dicen 'primera semana de enero'.",
+   "fundamento": "LGIPE art. 226",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://centralelectoral.ine.mx/2026/07/31/planeara-y-organizara-ine-mas-de-500-actividades-del-proceso-electoral-federal-2026%E2%80%912027/",
+    "https://politica.expansion.mx/mexico/2026/08/09/elecciones-2027-calendario-fechas-cargos"
+   ],
+   "claro": "Precampañas: los partidos eligen a sus candidatos"
+  },
+  {
+   "id": "e13b",
+   "carril": "electoral",
+   "cat": "candidaturas",
+   "inicio": "2027-01-15",
+   "fin": "2027-01-30",
+   "titulo": "Registro de plataformas electorales de los partidos",
+   "fundamento": "LGIPE art. 236",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "Los partidos registran sus propuestas de gobierno"
+  },
+  {
+   "id": "e03f",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2027-01-25",
+   "titulo": "Fecha límite: solicitud de voto anticipado",
+   "detalle": "Personas con discapacidad o impedimento físico y personas cuidadoras primarias.",
+   "fundamento": "Lineamientos INE",
+   "estado": "programado",
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "Último día para pedir votar antes por discapacidad o cuidados"
+  },
+  {
+   "id": "l23",
+   "carril": "legislativo",
+   "cat": "periodos",
+   "inicio": "2027-02-01",
+   "fin": "2027-04-30",
+   "titulo": "2º periodo ordinario (3er año, LXVI) — último periodo ordinario de la Legislatura",
+   "detalle": "Coincide con precampañas, registro y campañas.",
+   "fundamento": "CPEUM art. 65",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Último periodo de sesiones de esta Legislatura"
+  },
+  {
+   "id": "e14b",
+   "carril": "electoral",
+   "cat": "casillas",
+   "inicio": "2027-02-01",
+   "fin": "2027-02-04",
+   "titulo": "Sorteo de la letra del alfabeto",
+   "fundamento": "LGIPE art. 254",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "Sorteo de la letra para elegir a quienes atenderán las casillas"
+  },
+  {
+   "id": "e14",
+   "carril": "electoral",
+   "cat": "casillas",
+   "inicio": "2027-02-05",
+   "fin": null,
+   "titulo": "Primera insaculación de funcionarios de casilla",
+   "detalle": "",
+   "fundamento": "LGIPE art. 254",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://mayacomunicacion.com.mx/elecciones-2027-calendario-ine/"
+   ],
+   "claro": "Primer sorteo de ciudadanos para atender casillas"
+  },
+  {
+   "id": "e03",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2027-02-08",
+   "fin": null,
+   "titulo": "Fecha límite: reposición de credencial (robo/extravío)",
+   "detalle": "Solo reposición, sin cambios de datos.",
+   "fundamento": "LGIPE art. 138",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/",
+    "https://www.bloomberglinea.com/latinoamerica/mexico/credencial-del-ine-que-vence-en-2026-cuando-renovarla-para-las-elecciones-de-2027-y-que-documentos-llevar/"
+   ],
+   "claro": "Último día para reponer credencial perdida o robada"
+  },
+  {
+   "id": "e03b",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2027-02-09",
+   "fin": "2027-05-21",
+   "titulo": "Reimpresión de credencial (robo, extravío, deterioro)",
+   "detalle": "Sin cambio de datos.",
+   "fundamento": "LGIPE art. 138",
+   "estado": "programado",
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/"
+   ],
+   "verificar_primaria": false,
+   "claro": "Reimpresión de credencial perdida o robada"
+  },
+  {
+   "id": "e15",
+   "carril": "electoral",
+   "cat": "campanas",
+   "inicio": "2027-02-13",
+   "fin": "2027-04-03",
+   "titulo": "Intercampaña (derivado)",
+   "detalle": "Fecha calculada: va del fin de precampañas (12 feb) al inicio de campañas (4 abr). No es un acto del INE; por eso no tiene fuente propia.",
+   "fundamento": "",
+   "estado": "calculado",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Pausa entre precampañas y campañas"
+  },
+  {
+   "id": "l24",
+   "carril": "legislativo",
+   "cat": "fiscalizacion",
+   "inicio": "2027-02-20",
+   "fin": null,
+   "titulo": "ASF: Informe General e individuales (3ª entrega) de la Cuenta Pública 2025",
+   "detalle": "Entregas previas: último día hábil de junio y octubre 2026.",
+   "fundamento": "LFRCF arts. 33 y 35",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf"
+   ],
+   "claro": "La Auditoría Superior entrega su revisión de las cuentas de 2025"
+  },
+  {
+   "id": "e03c",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2027-03-15",
+   "titulo": "Último día para recoger credenciales de trámites en plazo",
+   "detalle": "Las de reimpresión se entregan hasta el 4 jun 2027.",
+   "fundamento": "LGIPE art. 136",
+   "estado": "programado",
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/10/14/ine-guanajuato-informa-sobre-las-principales-actividades-y-fechas-del-proceso-electoral-federal-2026-2027/"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "Último día para recoger la credencial tramitada"
+  },
+  {
+   "id": "e16b",
+   "carril": "electoral",
+   "cat": "casillas",
+   "inicio": "2027-03-16",
+   "titulo": "Aprobación de casillas especiales y extraordinarias",
+   "detalle": "Básicas y contiguas: 20-30 abr 2027.",
+   "fundamento": "LGIPE art. 256",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "El INE aprueba casillas especiales"
+  },
+  {
+   "id": "e16",
+   "carril": "electoral",
+   "cat": "candidaturas",
+   "inicio": "2027-03-22",
+   "fin": "2027-04-03",
+   "titulo": "Registro de candidaturas a diputaciones",
+   "detalle": "Independientes: solicitud 22-29 mar; consejos resuelven el 3 abr.",
+   "fundamento": "LGIPE arts. 237-238",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://www.expreso.com.mx/noticias/mexico/ine-aprueba-calendario-electoral-2026-2027-para-diputados/261490"
+   ],
+   "claro": "Registro oficial de candidatos a diputados"
+  },
+  {
+   "id": "e16c",
+   "carril": "electoral",
+   "cat": "candidaturas",
+   "inicio": "2027-04-02",
+   "fin": "2027-06-06",
+   "titulo": "Sistema \"Candidatas y Candidatos: Conóceles\"",
+   "estado": "programado",
+   "fundamento": "",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "Se publica quién es quién entre los candidatos"
+  },
+  {
+   "id": "e17",
+   "carril": "electoral",
+   "cat": "campanas",
+   "inicio": "2027-04-04",
+   "fin": "2027-06-02",
+   "titulo": "Campañas electorales",
+   "detalle": "",
+   "fundamento": "LGIPE art. 251",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/07/31/planeara-y-organizara-ine-mas-de-500-actividades-del-proceso-electoral-federal-2026%E2%80%912027/",
+    "https://politica.expansion.mx/mexico/2026/08/09/elecciones-2027-calendario-fechas-cargos"
+   ],
+   "claro": "Campañas electorales"
+  },
+  {
+   "id": "e18",
+   "carril": "electoral",
+   "cat": "casillas",
+   "inicio": "2027-04-08",
+   "fin": null,
+   "titulo": "Segunda insaculación de funcionarios de casilla",
+   "detalle": "",
+   "fundamento": "LGIPE art. 254",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://mayacomunicacion.com.mx/elecciones-2027-calendario-ine/"
+   ],
+   "claro": "Segundo sorteo: se elige a quienes atenderán las casillas"
+  },
+  {
+   "id": "e03d",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2027-04-13",
+   "fin": "2027-05-06",
+   "titulo": "Entrega de la Lista Nominal definitiva con fotografía a consejos locales",
+   "fundamento": "LGIPE art. 153",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "El INE entrega la lista final de votantes con foto"
+  },
+  {
+   "id": "e03e",
+   "carril": "electoral",
+   "cat": "credencial",
+   "inicio": "2027-04-26",
+   "fin": "2027-04-30",
+   "titulo": "Declaración de validez y definitividad del Padrón y Listas Nominales",
+   "fundamento": "LGIPE art. 151",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "El INE declara válida la lista de votantes"
+  },
+  {
+   "id": "l25",
+   "carril": "legislativo",
+   "cat": "fiscalizacion",
+   "inicio": "2027-04-30",
+   "fin": null,
+   "titulo": "Entrega de la Cuenta Pública 2026",
+   "detalle": "",
+   "fundamento": "CPEUM art. 74 fr. VI",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "El Gobierno entrega sus cuentas de 2026"
+  },
+  {
+   "id": "l26",
+   "carril": "legislativo",
+   "cat": "periodos",
+   "inicio": "2027-05-01",
+   "fin": "2027-08-31",
+   "titulo": "Receso final de la LXVI: Comisión Permanente",
+   "detalle": "",
+   "fundamento": "CPEUM art. 78",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "Últimas vacaciones de esta Legislatura: Comisión Permanente"
+  },
+  {
+   "id": "e19b",
+   "carril": "electoral",
+   "cat": "casillas",
+   "inicio": "2027-05-31",
+   "fin": "2027-06-04",
+   "titulo": "Entrega de paquetes y materiales a presidencias de casilla",
+   "fundamento": "LGIPE art. 269",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "Se entregan boletas y material a las casillas"
+  },
+  {
+   "id": "e19",
+   "carril": "electoral",
+   "cat": "campanas",
+   "inicio": "2027-06-03",
+   "fin": "2027-06-05",
+   "titulo": "Veda / periodo de reflexión",
+   "detalle": "",
+   "fundamento": "LGIPE art. 251.4",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://centralelectoral.ine.mx/2026/07/31/planeara-y-organizara-ine-mas-de-500-actividades-del-proceso-electoral-federal-2026%E2%80%912027/",
+    "https://politica.expansion.mx/mexico/2026/08/09/elecciones-2027-calendario-fechas-cargos"
+   ],
+   "claro": "Veda: tres días sin campañas"
+  },
+  {
+   "id": "e20",
+   "carril": "electoral",
+   "cat": "jornada",
+   "inicio": "2027-06-06",
+   "fin": null,
+   "titulo": "JORNADA ELECTORAL",
+   "detalle": "Votación de 8:00 a 18:00 h. 500 diputaciones (300 MR + 200 RP) y 19,609 cargos locales concurrentes. La elección judicial ya NO coincide: se movió a 2028 (ver r04).",
+   "fundamento": "CPEUM art. 41; LGIPE art. 22",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://centralelectoral.ine.mx/2026/07/31/planeara-y-organizara-ine-mas-de-500-actividades-del-proceso-electoral-federal-2026%E2%80%912027/",
+    "https://www.ejecentral.com.mx/nuestro-eje/ine-arranca-el-proceso-electoral-federal-2026-2027-se-elegiran-500-diputaciones-y-mas-de-19-mil-cargos-locales-fechas-clave-de-la-jornada-electoral"
+   ],
+   "claro": "DÍA DE LA ELECCIÓN"
+  },
+  {
+   "id": "e20b",
+   "carril": "electoral",
+   "cat": "jornada",
+   "inicio": "2027-06-06",
+   "titulo": "PREP y Conteo Rápido",
+   "detalle": "Misma noche de la jornada.",
+   "fundamento": "LGIPE arts. 219, 220",
+   "estado": "programado",
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "Primeros resultados: conteo rápido y PREP"
+  },
+  {
+   "id": "e21",
+   "carril": "electoral",
+   "cat": "computos",
+   "inicio": "2027-06-09",
+   "fin": "2027-06-11",
+   "titulo": "Cómputos distritales y constancias de mayoría",
+   "detalle": "Consejos distritales; entregan constancia de mayoría y validez a fórmulas ganadoras.",
+   "fundamento": "LGIPE arts. 309-312",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://mayacomunicacion.com.mx/elecciones-2027-calendario-ine/"
+   ],
+   "claro": "Conteo oficial en los 300 distritos y constancias a ganadores"
+  },
+  {
+   "id": "e22",
+   "carril": "electoral",
+   "cat": "computos",
+   "inicio": "2027-06-13",
+   "fin": null,
+   "titulo": "Cómputo de circunscripción plurinominal",
+   "detalle": "",
+   "fundamento": "LGIPE art. 316",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://mayacomunicacion.com.mx/elecciones-2027-calendario-ine/"
+   ],
+   "claro": "Suma oficial de votos por región para plurinominales"
+  },
+  {
+   "id": "e24",
+   "carril": "electoral",
+   "cat": "computos",
+   "inicio": "2027-08-01",
+   "fin": "2027-08-23",
+   "titulo": "Asignación de diputaciones de representación proporcional (INE)",
+   "detalle": "El INE suma los votos de cada partido y reparte los 200 lugares plurinominales según su porcentaje. Tiene hasta el 23 de agosto y entrega las constancias a quienes reciben un lugar.",
+   "fundamento": "LGIPE art. 44.1.u",
+   "estado": "programado",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://ine.mx/voto-y-elecciones/elecciones-2027/actividades-2027/",
+    "https://mexiquensedigital.com/noticias/consejo-general-del-ine-aprueba-el-plan-integral-y-calendario-para-el-proceso-electoral-federal-2026-2027/20_20260731013015_34438"
+   ],
+   "claro": "El INE reparte los 200 diputados plurinominales"
+  },
+  {
+   "id": "e23",
+   "carril": "electoral",
+   "cat": "tepjf",
+   "inicio": "2027-08-03",
+   "fin": null,
+   "titulo": "Límite: Salas Regionales resuelven juicios de inconformidad (diputaciones)",
+   "detalle": "Plazo legal; contrastar con calendario TEPJF.",
+   "fundamento": "LGSMIME art. 58",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf"
+   ],
+   "claro": "Tribunales regionales resuelven quejas sobre resultados"
+  },
+  {
+   "id": "e25",
+   "carril": "electoral",
+   "cat": "tepjf",
+   "inicio": "2027-08-19",
+   "fin": null,
+   "titulo": "Límite: Sala Superior resuelve reconsideraciones sobre cómputos distritales",
+   "detalle": "Los demás recursos de reconsideración (p. ej. contra la asignación de RP): a más tardar tres días antes de que se instale la Cámara.",
+   "fundamento": "LGSMIME art. 69",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf"
+   ],
+   "claro": "El Tribunal Electoral resuelve las últimas quejas sobre distritos"
+  },
+  {
+   "id": "e26",
+   "carril": "ambos",
+   "cat": "integracion",
+   "inicio": "2027-08-20",
+   "fin": "2027-08-28",
+   "titulo": "Entrega de credenciales de acceso a diputaciones electas",
+   "detalle": "Secretaría General de la Cámara, con base en constancias de mayoría y de asignación.",
+   "fundamento": "LOCGEUM art. 14.1.b",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf"
+   ],
+   "claro": "Diputados electos recogen su credencial de acceso"
+  },
+  {
+   "id": "e25b",
+   "carril": "electoral",
+   "cat": "tepjf",
+   "inicio": "2027-08-26",
+   "titulo": "Límite: demás reconsideraciones (asignación de RP)",
+   "detalle": "\"Tres días antes al en que se instalen las Cámaras\". Si se cuenta desde la sesión constitutiva (29 ago) da 26 ago; si desde el 1 sep da 29 ago. Lectura conservadora: 26 ago.",
+   "fundamento": "LGSMIME art. 69.1",
+   "estado": "plazo_legal",
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "El Tribunal Electoral resuelve quejas sobre plurinominales"
+  },
+  {
+   "id": "e27",
+   "carril": "ambos",
+   "cat": "integracion",
+   "inicio": "2027-08-28",
+   "fin": null,
+   "titulo": "Partidos comunican integración de su Grupo Parlamentario",
+   "detalle": "Denominación, lista de integrantes y coordinación, ante la Secretaría General.",
+   "fundamento": "LOCGEUM art. 14.4",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf"
+   ],
+   "claro": "Cada partido informa quiénes forman su bancada"
+  },
+  {
+   "id": "e28",
+   "carril": "ambos",
+   "cat": "integracion",
+   "inicio": "2027-08-29",
+   "fin": null,
+   "titulo": "Sesión constitutiva de la LXVII Legislatura",
+   "detalle": "11:00 h. Mesa de Decanos (mayor antigüedad legislativa), protesta, elección de Mesa Directiva, declaración de legal constitución.",
+   "fundamento": "LOCGEUM arts. 14.2, 15",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf"
+   ],
+   "claro": "Se instala la nueva Cámara de Diputados"
+  },
+  {
+   "id": "l29",
+   "carril": "legislativo",
+   "cat": "reglamento",
+   "inicio": "2027-08-31",
+   "titulo": "Fin de la LXVI: iniciativas no dictaminadas se tienen por desechadas",
+   "detalle": "Se archivan como asuntos concluidos. Las proposiciones no dictaminadas se desechan al cierre de cada periodo (15 dic 2026, 30 abr 2027).",
+   "fundamento": "RCD art. 184.2",
+   "estado": "plazo_legal",
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf"
+   ],
+   "fin": null,
+   "verificar_primaria": false,
+   "claro": "Las iniciativas sin dictamen se archivan"
+  },
+  {
+   "id": "e29",
+   "carril": "ambos",
+   "cat": "integracion",
+   "inicio": "2027-09-01",
+   "fin": null,
+   "titulo": "Apertura del 1er periodo ordinario de la LXVII + Informe presidencial",
+   "detalle": "",
+   "fundamento": "CPEUM arts. 65, 69",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [],
+   "claro": "La nueva Legislatura abre sesiones e Informe de la Presidenta"
+  },
+  {
+   "id": "e30",
+   "carril": "ambos",
+   "cat": "integracion",
+   "inicio": "2027-09-01",
+   "fin": "2027-09-30",
+   "titulo": "Constitución de comisiones ordinarias de la LXVII",
+   "detalle": "Durante el primer mes de ejercicio.",
+   "fundamento": "LOCGEUM art. 43",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf"
+   ],
+   "claro": "Se forman las comisiones de la nueva Cámara"
+  },
+  {
+   "id": "l15b",
+   "carril": "legislativo",
+   "cat": "fiscalizacion",
+   "inicio": "2027-10-31",
+   "titulo": "Límite: revisión de la Cuenta Pública 2025 (ya en la LXVII)",
+   "fundamento": "CPEUM art. 74 fr. VI",
+   "estado": "plazo_legal",
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+   ],
+   "fin": null,
+   "detalle": "",
+   "verificar_primaria": false,
+   "claro": "Último día para revisar las cuentas públicas de 2025"
+  },
+  {
+   "id": "i06",
+   "carril": "ine",
+   "cat": "presidencia",
+   "inicio": null,
+   "fin": null,
+   "titulo": "Comité Técnico de Evaluación (5 personas)",
+   "detalle": "Cinco expertos revisan a las aspirantes: tres los nombra la Jucopo y dos la CNDH. Escogen a las cinco mejor evaluadas y mandan esa lista a la Jucopo.",
+   "fundamento": "CPEUM art. 41 V-A, inciso a",
+   "estado": "pendiente",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+    "https://politica.expansion.mx/mexico/2026/10/29/relevo-ine-guadalupe-taddei-camara-diputados"
+   ],
+   "claro": "Comité de 5 expertos evalúa a las aspirantes al INE"
+  },
+  {
+   "id": "l27",
+   "carril": "legislativo",
+   "cat": "reglamento",
+   "inicio": null,
+   "fin": null,
+   "titulo": "Plazo para dictaminar: 45 días hábiles",
+   "detalle": "Corre desde la recepción formal del turno. Prórroga: la acuerda la Junta Directiva de la comisión dentro del plazo e informa a la Mesa (los numerales que fijaban 45 días extra están derogados). Proposiciones: hasta el fin de cada periodo ordinario. Los plazos se interrumpen desde el inicio de legislatura hasta que se instala la comisión.",
+   "fundamento": "RCD arts. 182-183",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf"
+   ],
+   "claro": "Las comisiones tienen 45 días hábiles para dictaminar"
+  },
+  {
+   "id": "l28",
+   "carril": "legislativo",
+   "cat": "reglamento",
+   "inicio": null,
+   "fin": null,
+   "titulo": "Iniciativa preferente: 30 días naturales por Cámara",
+   "detalle": "Hasta 2 iniciativas el día de apertura de cada periodo ordinario; 30 días naturales en cada Cámara; si no se vota, es el primer asunto de la siguiente sesión. No aplica a reformas constitucionales.",
+   "fundamento": "CPEUM art. 71; RCD",
+   "estado": "plazo_legal",
+   "verificar_primaria": false,
+   "fuentes": [
+    "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"
+   ],
+   "claro": "Iniciativas preferentes de la Presidenta: 30 días por Cámara"
+  }
+ ]
+}
