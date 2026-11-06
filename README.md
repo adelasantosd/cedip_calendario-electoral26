@@ -178,7 +178,7 @@ Key findings that shape the content:
 
 ## Design and accessibility
 
-- A single light theme on warm paper (`#F8F8F5`), shared with the author's other visual arguments. Headings and reading text use a book serif (Iowan Old Style or Palatino); controls use a sans serif. No web fonts are downloaded.
+- A single light theme on warm paper (`#F8F8F5`), shared with the author's other visual arguments. Headings counters and event titles use Inter Tight (weights 700-900); the interfaces uses Inter; longe explanatory text uses Source Serif 4; dates and legal citations use IBM Plex Mono. All four are releases under the SIL Open Font Licence 1.1. and are self hosted (about 175 KB in total), so not font service is contacted.
 - Colours are muted and not tied to any party: in Mexico almost every saturated hue is associated with a political party. Small coloured text is darkened to reach a readable contrast against the pearl-grey background.
 - Track and status are never shown by colour alone: side, position and marker shape carry the same information.
 - All controls work with a keyboard. Cards open with Enter or Space, and glossary terms show their definition on keyboard focus.
