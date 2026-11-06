@@ -132,7 +132,6 @@ Also update `corte` (the data cut-off date) at the top of the file. The page sho
 
 ### Editorial conventions
 
-- Every mention of Ricardo Monreal reads: *el diputado Ricardo Monreal, coordinador del GP MORENA*.
 - Do not describe estimates as decisions. If a date comes from a political statement and no formal act exists yet, its status is `estimado`.
 
 ## Data model
